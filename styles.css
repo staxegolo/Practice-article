@@ -1,0 +1,56 @@
+
+*{
+  box-sizing: border-box;
+}
+
+main{ 
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #eeeeee;
+  margin:  30px 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+figure{
+  background-color: white;
+  max-width: 100%;
+  padding: 15px;
+}
+
+figcaption{
+  margin-top: 15px;
+}
+
+h3{
+  margin: 50px 0;
+}
+
+ul{
+  margin: 0 2em 3em 2em;
+}
+
+ul, blockquote{
+  text-align: left;
+}
+
+ul li{
+  margin: 1em 0;
+}
+
+a{
+  color: #5f8cb1;
+}
